@@ -27,7 +27,7 @@ params:
     enabled: true
     title: "Parambir Singh" # optional default will be site title
     subtitle: "Experienced Backend Developer in JVM Ecosystem (Java, Kotlin, Scala) | Senior Software Engineer at Apple | Formerly at Amazon & Atlassian"
-    imageUrl: "images/avatar.png" # optional
+    imageUrl: "images/profile.jpg" # optional
     imageTitle: "<title of image as alt>" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
