@@ -1,0 +1,54 @@
+baseURL: 'https://parambirs.github.io/'
+languageCode: 'en-us'
+title: 'Parambir Singh'
+paginate: 5
+theme: 'PaperMod'
+
+menu:
+  main:
+    - name: Home
+      url: "/"
+      weight: 1
+    - name: Posts
+      url: "/posts"
+      weight: 2
+    - name: Resume
+      url: "/resume"
+      weight: 3
+
+permalinks:
+  page:
+    posts: /posts/:slug/
+  section:
+    posts: /posts/
+
+params:
+  profileMode:
+    enabled: true
+    title: "Parambir Singh" # optional default will be site title
+    subtitle: "Experienced Backend Developer in JVM Ecosystem (Java, Kotlin, Scala) | Senior Software Engineer at Apple | Formerly at Amazon & Atlassian"
+    imageUrl: "images/avatar.png" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    # buttons:
+    #   - name: Posts
+    #     url: "/posts"
+    #   - name: Github
+    #     url: "https://github.com/parambirs"
+
+  socialIcons: # optional
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/parambir/"
+    - name: "GitHub"
+      url: "https://github.com/parambirs"
+    - name: "StackOverflow"
+      url: "https://stackoverflow.com/users/728971/param"
+    - name: rss
+      url: "/index.xml"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
