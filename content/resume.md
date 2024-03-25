@@ -1,9 +1,9 @@
 +++
 date = 2024-03-24T16:46:49-07:00
-draft = true
+draft = false
 +++
 
-# Parambir's Resume
+# Parambir's Resume (Draft)
 
 Seasoned backend developer with 18 years of experience building highly scalable services using JVM ecosystem (Java, Kotlin, and Scala). Currently Senior Software Engineer at Apple. Previously worked at Amazon and Atlassian.
 
