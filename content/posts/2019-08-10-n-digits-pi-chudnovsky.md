@@ -1,7 +1,7 @@
 ---
 title: 'Calculating n digits of pi using Chudnovsky Algorithm'
 date: 2019-08-10T00:00:00-07:00
-tags: ["pi", "algorithm", "Chudnovsky"]
+tags: ["algorithm"]
 summary: "Chudnovsky Algorithm for calculating π to N digits precision, along with a simple CLI for testing"
 ---
 

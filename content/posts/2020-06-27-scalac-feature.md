@@ -1,7 +1,7 @@
 ---
 title: 'scalac -feature'
 date: 2020-06-27T00:00:00-07:00
-tags: ["scala", "scalac"]
+tags: ["scala"]
 summary: "Use scalac's -feature option to emit warnings for features that should be imported explicitly."
 ---
 

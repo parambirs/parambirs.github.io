@@ -1,7 +1,7 @@
 ---
 title: 'A Tour of Go – Exercise Solutions'
 date: 2016-02-22T00:00:00-07:00
-tags: ["go", "golang"]
+tags: ["golang"]
 summary: "Explored Go via 'A Tour of Go', enjoyed its simplicity and engaging exercises."
 ---
 

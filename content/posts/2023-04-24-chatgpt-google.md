@@ -1,7 +1,7 @@
 ---
 title: 'When ChatGPT is better than Google'
 date: 2023-04-24T00:00:00-07:00
-tags: ["search", "chatgpt", "google", "cron"]
+tags: ["chatgpt", "cron"]
 summary: "ChatGPT offers quicker solutions compared to Google for some tasks"
 ---
 

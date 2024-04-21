@@ -1,7 +1,7 @@
 ---
 title: 'How to write a Haskell web service (from scratch)'
 date: 2015-10-21T00:00:00-07:00
-tags: ["haskell", "scotty", "rest", "cabal"]
+tags: ["haskell", "scotty", "rest"]
 summary: "A hands-on guide to running a Haskell based web service on docker. No previous knowledge of haskell or docker required."
 ---
 
