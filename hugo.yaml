@@ -15,6 +15,9 @@ menu:
     - name: Resume
       url: "/resume"
       weight: 3
+    - name: Tags
+      url: "/tags/"
+      weight: 4
 
 permalinks:
   page:
