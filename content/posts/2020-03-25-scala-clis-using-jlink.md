@@ -1,9 +1,8 @@
 ---
 title: "Easily distributable Scala CLIs using jlink"
 date: 2020-03-25T00:00:00-07:00
-draft: true
 tags: ["scala", "jlink", "cli"]
-summary: ""
+summary: "JDK's jlink tool streamlines custom JRE creation, shrinking distribution sizes, ideal for lightweight command-line apps like a Scala CLI."
 ---
 
 JDK 9 added the [jlink](https://docs.oracle.com/javase/9/tools/jlink.htm) tool that allows us to create 
