@@ -18,6 +18,9 @@ menu:
     - name: Tags
       url: "/tags/"
       weight: 4
+    - name: Archive
+      url: "/archive/"
+      weight: 5
 
 permalinks:
   page:
