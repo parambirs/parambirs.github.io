@@ -3,48 +3,48 @@ date = 2024-03-24T16:46:49-07:00
 draft = false
 +++
 
-# Parambir's Resume (Draft)
+# 📝 Resume
 
-Seasoned backend developer with 18 years of experience building highly scalable services using JVM ecosystem (Java, Kotlin, and Scala). Currently Senior Software Engineer at Apple. Previously worked at Amazon and Atlassian.
+Experienced developer with 18+ years of experience building distributed and highly scalable backend services. Key skills: Cloud native development using Kubernetes/AWS | REST APIs | Microservices architecture | Big data processing pipelines with Spark, AWS Glue, Kinesis, Kafka | Proficient with Java, Kotlin, Scala, and TypeScript.
 
-## Experience
+## 🧑🏻‍💻 Employment
 
-### Apple - Staff Software Engineer 
-#### 2020 - Present
+### 🇨🇦 Apple - Staff Software Engineer  
 
-Vancouver, Canada
+_TestFlight server engineering._
+Tech: Java, Kotlin, Cassandra, Kafka, JAX-RS, Redis, Docker, Kubernetes.
 
-TestFlight back-end services, REST APIs, Cassandra, Kafka, Java, Jersey, Infrastructure, CI/CD
+### 🇨🇦 Amazon - Software Development Engineer
 
-### Amazon - Software Development Engineer
-#### 2017-2020
+_Amazon.com Store/Subscribe-And-Save._
+Tech: Java, Kotlin, AWS Glue, DynamoDB, Lambda, S3, Kinesis FireHose, SNS.
 
-Vancouver, Canada
+### 🇦🇺 Atlassian - Senior Developer
 
-Distributed and highly scalable backend services using Java and Scala. Data processing and ML pipelines using Spark and AWS.
+_Cloud Platform Infrastructure._
+Tech: Java, Scala, AWS, TypeScript, Python.
 
-Designed and implemented multiple global backend services (using Java and Scala) and data processing/machine learning pipelines (using Spark and AWS Glue) that help in identifying and reordering replenishable products on Amazon. 
-- Tech used: Java, Kotlin, Scala, AWS.
-- Designed and delivered serverless application on AWS (using Lambda, DynamoDB, S3, Kinesis firehose, SNS) that delivers 5.5 million real time messages a month to downstream services.
-- Evangelized infrastructure-as-code and continuous integration/delivery of services in the team using Cloudformation, CodeDeploy and CodeBuild
+### 🇮🇳 Guavus - Consultant Engineer
+_Network Analytics._
+Tech: Scala, Spark, Hadoop.
 
-### Atlassian - Senior Developer
-#### 2014-2016
+### 🇮🇳 Clickable/Syncapse - Software Development Lead
+_Technical leader of the server side team for a Series-C startup._
+Tech: Java, Scala, JavaScript, HBase.
 
-Sydney, Australia
+### 🇮🇳 Adobe - Member of Technical Staff
+_Acrobat.com Tables - a collaborative web-based spreadsheet application._
+Tech: Java, Servlets, JSP, J2EE, MySQL, Flex, ActionScript, Flash, iBatis.
 
-Developed and maintained multiple microservices for Atlassian's AWS based cloud platform. 
-- Tech used: Java, Scala, AWS, TypeScript, Python.
-- Designed architecture for and delivered multiple microservices. Researched suitable AWS services for our requirements e.g. DynamoDB, RDS, Kinesis, SWF, ElasticSearch, SQS, SNS, etc.
-- Saved many man-months of team effort by proposing an Elastic Search based solution instead of a custom solution over DynamoDB for a search microservice.
-- Made debugging latency issues simpler by introducing Zipkin distributed tracing.
-- Made it easier to refactor, maintain and test UI code by migrating from JavaScript to TypeScript.
+### 🇮🇳 IBM - Application Developer
 
+_Java/J2EE application for American Express._
+Tech: Java, Servlets, JSP, J2EE, JavaScript, WebSphere, DB2. 
 
 ----------
 
-## Education
+## 📜 Education
 
-### Bachelor of Engineering
+### 🏫 Bachelor of Engineering
 
 Delhi University (Netaji Subhas Institute of Technology)
